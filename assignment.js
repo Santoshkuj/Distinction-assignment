@@ -99,4 +99,4 @@ for (const {
     console.log(`Name: ${n}, street: ${s}`);
   }
 }
-nestedObject(person)
+nestedObject(person);
